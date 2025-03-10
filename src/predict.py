@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 import os
 
-def predecir_renta(datos, ruta_modelo, ruta_columnas):
+def predecir_renta_2025(datos, ruta_modelo, ruta_columnas):
     """
     Predice el precio de renta utilizando un modelo preentrenado.
     
