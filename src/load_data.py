@@ -1,6 +1,6 @@
 import pandas as pd
 
-def cargar_datos1(ruta_archivo):
+def cargar_datos(ruta_archivo):
     """
     Carga datos desde un archivo CSV y retorna un DataFrame.
     
